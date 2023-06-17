@@ -1,0 +1,7 @@
+datasets
+py7zr
+transformers
+evaluate
+rouge_score
+accelerate
+wandb
